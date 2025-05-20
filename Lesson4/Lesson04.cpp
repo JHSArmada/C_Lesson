@@ -55,13 +55,13 @@ int main()
 	num = 0;
 
 	num++;  //num = num + 1;
-	printf("num = %d\n", num);
+	printf("num = %d\n", num); //1
 
 	++num;  //num = num + 1;
-	printf("num = %d\n", num);
+	printf("num = %d\n", num); //2
 
-	printf("num = %d\n", num++);
-	printf("num = %d\n", ++num);
+	printf("num = %d\n", num++); // (prinrf)먼저 출력부터 하고 증가  //2로 출력 ==>3
+	printf("num = %d\n", ++num); // 먼저 증가 후 출력  // 3 + 1 = 4
 
 	num--;  //num = num - 1;
 	printf("num = %d\n", num);
@@ -69,6 +69,17 @@ int main()
 	--num;  //num = num - 1;
 	printf("num = %d\n", num);
 
+	/*
+	//연산자 우선순위
+	1. ++,--
+	2. +, -(부호 연산자)
+	3. *, /, %
+	4. +, -
+	5. >, >=, <, <=
+	6. ==, !=
+	7. 논리연산자
+	8. 대입연산자
+	*/
 
 
 	return 0;
