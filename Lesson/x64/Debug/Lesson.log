@@ -1,0 +1,42 @@
+﻿  Lesson01.cpp
+C:\Users\User\Documents\Lesson\Lesson\Lesson01.cpp(30,9): warning C4778: 'printf' : 서식 문자열 '%\n'이(가) 종결되지 않았습니다.
+C:\Users\User\Documents\Lesson\Lesson\Lesson01.cpp(30,30): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+      C:\Users\User\Documents\Lesson\Lesson\Lesson01.cpp(30,30):
+      자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+  
+C:\Users\User\Documents\Lesson\Lesson\Lesson01.cpp(32,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\User\Documents\Lesson\Lesson\Lesson01.cpp(32,9):
+      서식 문자열에서 '%zu'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\User\Documents\Lesson\Lesson\Lesson01.cpp(33,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\User\Documents\Lesson\Lesson\Lesson01.cpp(33,9):
+      서식 문자열에서 '%zu'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\User\Documents\Lesson\Lesson\Lesson01.cpp(34,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\User\Documents\Lesson\Lesson\Lesson01.cpp(34,9):
+      서식 문자열에서 '%zu'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\User\Documents\Lesson\Lesson\Lesson01.cpp(35,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\User\Documents\Lesson\Lesson\Lesson01.cpp(35,9):
+      서식 문자열에서 '%zu'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\User\Documents\Lesson\Lesson\Lesson01.cpp(37,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\User\Documents\Lesson\Lesson\Lesson01.cpp(37,9):
+      서식 문자열에서 '%zu'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\User\Documents\Lesson\Lesson\Lesson01.cpp(38,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\User\Documents\Lesson\Lesson\Lesson01.cpp(38,9):
+      서식 문자열에서 '%zu'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\User\Documents\Lesson\Lesson\Lesson01.cpp(39,9): warning C4477: 'printf' : 서식 문자열 '%u'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\User\Documents\Lesson\Lesson\Lesson01.cpp(39,9):
+      서식 문자열에서 '%zu'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\User\Documents\Lesson\Lesson\Lesson01.cpp(43,7): warning C4309: '=': 상수 값이 잘립니다.
+C:\Users\User\Documents\Lesson\Lesson\Lesson01.cpp(23,15): warning C4101: 'unum' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Documents\Lesson\Lesson\Lesson01.cpp(21,16): warning C4101: 'uch' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Documents\Lesson\Lesson\Lesson01.cpp(22,17): warning C4101: 'un' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Documents\Lesson\Lesson\Lesson01.cpp(27,9): warning C4101: 'ma' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Documents\Lesson\Lesson\Lesson01.cpp(26,8): warning C4101: 'pi' :참조되지 않은 지역 변수입니다.
+C:\Users\User\Documents\Lesson\Lesson\Lesson01.cpp(28,14): warning C4101: 'real' :참조되지 않은 지역 변수입니다.
+  Lesson.vcxproj -> C:\Users\User\Documents\Lesson\x64\Debug\Lesson.exe
